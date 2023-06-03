@@ -7,6 +7,7 @@
         <Slider/>
         <Events/>
         <Contact/>
+        <Gallery/>
         <ContactMap/>
         <Footer/>
     </div>
